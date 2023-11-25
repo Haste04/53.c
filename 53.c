@@ -1,3 +1,4 @@
+/* RAW CODE /*
 #include<stdio.h>
 
 void userInput(int* score1, int* score2, int* score3);
